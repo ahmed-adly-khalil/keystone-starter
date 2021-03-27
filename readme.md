@@ -1,3 +1,5 @@
+## Keystone JS starter project
+
 - clone the repo
 - rename sample.env to .env
 - change the values inside .env
